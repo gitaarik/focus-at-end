@@ -1,0 +1,17 @@
+{
+  "name": "focus-at-end",
+  "version": "1.0.0",
+  "description": "Focuses an input and places the cursor at the end of the value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "input",
+    "focus",
+    "cursor",
+    "end"
+  ],
+  "author": "gitaarik <gitaarik@gmail.com> (https://www.npmjs.com/~gitaarik)",
+  "license": "LGPL-3.0"
+}
