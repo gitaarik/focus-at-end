@@ -1,6 +1,4 @@
 module.exports = function(input) {
     input.focus()
-    var val = input.value
-    input.value = ''
-    input.value = val
+    input.selectionStart = input.selectionEnd = input.value.length
 }
